@@ -1,3 +1,10 @@
 install.packages(c("ggplot2", "grid"))
 clear
 install.packages(c("ggplot2", "grid"))
+source("main.R")
+2
+2
+play_demo()
+play_random()
+play_demo()
+play_demo()
